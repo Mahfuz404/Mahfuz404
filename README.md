@@ -1,80 +1,114 @@
 # Hi there, I'm Mahfuz Ahmed 👋
 
-> Cybersecurity Enthusiast, Developer & Trainer from Bangladesh 🇧🇩  
+> Cybersecurity Expert, Developer & Trainer from Bangladesh 🇧🇩  
 > *Focused on securing & building the websites at a time.*
 
 ---
 
-## About Me
+## About Me :👇
 
-Self-driven developer and security enthusiast focused on building practical tools and improving online safety.
-
-- 🔐 Focused on **security research & web vulnerabilities**
-- ⚙️ Building **tools, platforms, and automation systems**
-- 🛡️ Identify and report **harmful or malicious online content**
-- 🌐 Report **abusive websites** through proper channels
-- 📋 Follow **responsible disclosure** practices
-- 🎓 Conduct **beginner-friendly cybersecurity & online safety** courses
-- 📢 Managing multiple digital projects
+- 🔐 Focused on **Security Research & Web Vulnerabilities**  
+- ⚙️ Building **Tools, Platforms & Automation Systems**  
+- 🛡️ Identify and report **Harmful or Malicious Online Content**  
+- 🌐 Report **Abusive Websites** through proper channels  
+- 📋 Practice **Responsible Disclosure**  
+- 🎓 Teach **Cybersecurity & Online Safety (Beginner Level)**  
+- 🚀 Managing multiple **Digital Projects**  
 
 ---
 
-## My Projects
+## Projects :👇
 
-| 🚀 Project | 📝 Description |
-|-----------|---------------|
-| 🛠️ **TrickFusion Tools Hub** | Multi-purpose utility platform |
-| 📰 **Bengali News Portal** | Local news & media platform |
-| 🌤️ **Weather Info** | Real-time weather insights |
-| 📥 **Social Media Downloader** | Multi-platform media downloader |
-| ☪️ **Muslim Companion** | Islamic tools & resources |
+| Project | Description |
+|--------|------------|
+| 🛠️ TrickFusion Tools Hub | Multi-purpose tools platform |
+| 📰 News Portal | Local news & media system |
+| 🌤️ Weather Info | Real-time weather tracking |
+| 📥 Social Media Downloader | Multi-platform downloader |
+| ☪️ Muslim Companion | Islamic tools & resources |
 
 ---
 
-## Tech Stack
+## Skills: 👇
 
-**🔐 Cybersecurity**
+### 🔐 Cybersecurity
 - Penetration Testing  
 - Vulnerability Analysis  
 - OSINT (Open Source Intelligence)  
-- Abuse Reporting  
-- Responsible Disclosure  
-- Web Security Testing  
+- Abuse Reporting & Content Moderation  
+- Web Application Security  
+- Basic Security Testing  
 
-**💻 Development**
+### 💻 Development
 - HTML, CSS, JavaScript, PHP, Python  
 - Firebase / APIs  
 
 ---
 
-## Connect With Me
+## 🌐 Connect With Me
 
-- Facebook: https://facebook.com/AhmedMahfuz2006  
-- Instagram: https://instagram.com/info.mahfuz420  
-- YouTube: https://youtube.com/@UCxUJSc4x-zZtplJjzS3i_Ng  
-- Telegram: https://t.me/TeamCyberVault  
-- Email: info.mahfuz420@gmail.com  
+<p align="center">
+<a href="https://facebook.com/AhmedMahfuz2006"><img src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white"/></a>
+<a href="https://instagram.com/info.mahfuz420"><img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white"/></a>
+<a href="https://pinterest.com/infomahfuz420"><img src="https://img.shields.io/badge/Pinterest-E60023?logo=pinterest&logoColor=white"/></a>
+<a href="https://youtube.com/@UCxUJSc4x-zZtplJjzS3i_Ng"><img src="https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white"/></a>
+<a href="mailto:info.mahfuz420@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"/></a>
+</p>
+
+---
+
+## 💻 Tech Stack
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/html5-E34F26?style=flat&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/css3-1572B6?style=flat&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/javascript-333?style=flat&logo=javascript"/>
+<img src="https://img.shields.io/badge/php-777BB4?style=flat&logo=php"/>
+<img src="https://img.shields.io/badge/python-3670A0?style=flat&logo=python"/>
+
+<img src="https://img.shields.io/badge/firebase-039BE5?style=flat&logo=firebase"/>
+<img src="https://img.shields.io/badge/cloudflare-F38020?style=flat&logo=cloudflare"/>
+<img src="https://img.shields.io/badge/vercel-000?style=flat&logo=vercel"/>
+<img src="https://img.shields.io/badge/netlify-000?style=flat&logo=netlify"/>
+
+</p>
 
 ---
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<p align="center">
+<img src="https://github-readme-stats.shion.dev/api?username=Mahfuz404&theme=chartreuse-dark&show_icons=true"/>
+<img src="https://streak-stats.demolab.com/?user=Mahfuz404&theme=chartreuse-dark"/>
+</p>
 
-![GitHub Stats](https://github-readme-stats.shion.dev/api?username=Mahfuz420-dev&theme=chartreuse-dark&include_all_commits=true&count_private=true)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=Mahfuz420-dev&theme=chartreuse-dark)
-
-![Top Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=Mahfuz420-dev&theme=chartreuse-dark&layout=compact)
-
-</div>
+<p align="center">
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Mahfuz404&layout=compact&theme=chartreuse-dark"/>
+</p>
 
 ---
 
-<div align="center">
+## 🏆 Achievements
 
-![Visitor Count](https://komarev.com/ghpvc/?username=Mahfuz420-dev&color=12)
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Mahfuz404&theme=radical&no-bg=true"/>
+</p>
 
-*"Security is a continuous process — not a one-time solution."*
+---
 
-</div>
+## ✍️ Dev Quote
+
+<p align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical"/>
+</p>
+
+---
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Mahfuz404&color=13"/>
+</p>
+
+<p align="center">
+<i>"Security is a continuous process — not a one-time solution."</i>
+</p>
