@@ -1,7 +1,7 @@
 # Hi there, I'm Mahfuz Ahmed 👋
 
 > Cybersecurity Enthusiast, Developer & Trainer from Bangladesh 🇧🇩  
-> *Focused on securing the web — one vulnerability at a time.*
+> *Focused on securing & building the websites at a time.*
 
 ---
 
@@ -15,7 +15,7 @@ Self-driven developer and security enthusiast focused on building practical tool
 - 🌐 Report **abusive websites** through proper channels
 - 📋 Follow **responsible disclosure** practices
 - 🎓 Conduct **beginner-friendly cybersecurity & online safety** courses
-- 🚀 Managing multiple digital projects
+- 📢 Managing multiple digital projects
 
 ---
 
